@@ -5,7 +5,7 @@
 	<groupId>org.jumaland</groupId>
 	<artifactId>spring-data-rest-demo</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>spring-data-rest-demo</name>
+	<name>Spring Data REST Demo</name>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
