@@ -1,2 +1,4 @@
 # Spring Data REST Demo
-Includes hypermedia REST service testing and HAL browser usage
+Includes
+* Hypermedia REST service testing
+* HAL browser usage
