@@ -1,5 +1,5 @@
 # Spring Data REST Demo
-[![Build Status](https://travis-ci.org/jumal/spring-data-rest-demo.svg?branch=master)](https://travis-ci.org/jumal/spring-data-rest-demo)
+#[![Build Status](https://travis-ci.org/jumal/spring-data-rest-demo.svg?branch=master)](https://travis-ci.org/jumal/spring-data-rest-demo)
 
 ## Description
 Includes
